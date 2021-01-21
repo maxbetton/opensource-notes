@@ -4,7 +4,7 @@
  Free software /!\ ne veut pas dire GRATUIT. *"Free as in free speech."*
  Exemple de Logiciel libre mais PAYANT : RedHat Linux.
 
- En terme de "familles" de licence :
+ En termes de "familles" de licence :
  - Freeware : logiciels gratuits
  - Shareware : logiciels payants AVEC période d'essai gratuite
  - Free Software : logiciels libres, parfois on considère aussi certains logiciels open-source comme tel
@@ -19,7 +19,7 @@ Un logiciel libre est défini par ces 4 libertés d'après la FSF :
 Une licence est **un contrat de mise à disposition** (logiciel, matériel...).
 
 **Un logiciel libre n'est pas :**
-- "libre de droit", "domaine public" car un logiciel libre appartient à son auteur qui utilise une licence pour en préciser les conditions d'utilisation.
+- "libre de droits", "domaine public" car un logiciel libre appartient à son auteur qui utilise une licence pour en préciser les conditions d'utilisation.
 - "logique d'abandon", Firefox, LibreOffice par ex. ne sont pas des logiciels à l'abandon
 - "opposé à la propriété intellectuelle", le logiciel libre au contraire se fonde sur le droit d'auteur.
 
@@ -49,7 +49,7 @@ On a donc des modèles économiques souvent bien différents de ceux de l'indust
 ## Organisation et Modèles économiques
 
 ## Présentation des contributions
-- **10 minutes** de présentation d'une contributions
+- **10 minutes** de présentation d'une contribution
 - Rapport de **3 à 4 pages** à rendre sur votre travail indiquant :
 	- Pourquoi ce projet ?
 	- Quelle contribution ? En quoi elle correspond aux acquis reçus en classe / alternance...
